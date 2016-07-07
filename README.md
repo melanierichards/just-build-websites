@@ -17,7 +17,7 @@ What if you don't know what kind of website to "just build"? The following is a 
   * Find code-for-good groups on [Meetup](http://meetup.com)
 * Find a local issue that's important to you, and make a brochure site that supports your stance
 * Rebuild a previous project using a CMS or coding language you're curious about
-* Make a game powered by web tech
+* Make a game powered by web tech (Maybe even participate in a [game jam](http://www.indiegamejams.com/))
 * Try to replicate an "IRL" visual effect using only CSS
 * Explore generative art
 * Challenge yourself to make a site under a certain kb limit
