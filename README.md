@@ -12,7 +12,7 @@ What if you don't know what kind of website to "just build"? The following is a 
 * Try to rebuild a page of a favorite site without looking at their code
 * Look at everybody's code!!!
 * Build a sustainable, pro-bono site for a non-profit in your area
-  * [Code for America](http://www.codeforamerica.org/)
+  * [Code for America](http://www.codeforamerica.org/) (you can also help [fix issues on existing projects](https://www.codeforamerica.org/geeks/civicissues))
   * [Volunteer Match](https://www.volunteermatch.org/)
   * Find code-for-good groups on [Meetup](http://meetup.com)
 * Find a local issue that's important to you, and make a brochure site that supports your stance
