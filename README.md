@@ -70,3 +70,4 @@ What if you don't know what kind of website to "just build"? The following is a 
 * Limit yourself to a palette of black-and-a-color, or white-and-a-color
 * Choose another restraint and create web art inspired by it
 * Make a time calculator ([Requirements](docs/time-calculator-requirements.md))
+* Make a unit converter ([Requirements](docs/unit-converter-requirements.md))
