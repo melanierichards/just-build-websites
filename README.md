@@ -69,5 +69,10 @@ What if you don't know what kind of website to "just build"? The following is a 
 * Create a complex work of emoji art
 * Limit yourself to a palette of black-and-a-color, or white-and-a-color
 * Choose another restraint and create web art inspired by it
+<<<<<<< HEAD
 * Make a time calculator ([Guidelines](docs/time-calculator.md))
 * Make a unit converter ([Guidelines](docs/unit-converter.md))
+=======
+* Make a time calculator ([Requirements](docs/time-calculator-requirements.md))
+* Recreate your favorite movie or concert poster as a responsive website
+>>>>>>> edd8bd0... Add suggestion for recreating your favorite poster
