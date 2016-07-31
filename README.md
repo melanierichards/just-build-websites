@@ -71,4 +71,4 @@ What if you don't know what kind of website to "just build"? The following is a 
 * Choose another restraint and create web art inspired by it
 * Make a time calculator ([Guidelines](docs/time-calculator.md))
 * Make a unit converter ([Guidelines](docs/unit-converter.md))
-* Make a time clock app ([Guidelines](docs/time-clock.md))
+* Make a time clock web app ([Guidelines](docs/time-clock.md))
