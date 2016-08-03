@@ -71,3 +71,4 @@ What if you don't know what kind of website to "just build"? The following is a 
 * Choose another restraint and create web art inspired by it
 * Make a time calculator ([Guidelines](docs/time-calculator.md))
 * Make a unit converter ([Guidelines](docs/unit-converter.md))
+* Recreate your favorite movie or concert poster as a responsive website
