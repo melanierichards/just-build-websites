@@ -23,8 +23,9 @@ If employee number validates, display a new page that will show the following:
 * Return Home button
 
 Buttons that aren't a valid option, based on the employee's current status, should be disabled. For example, once the employee is clocked in, the Clock In and Lunch In buttons should be disabled. After clocking out for lunch, the Clock In, Lunch Out, and Clock Out buttons should be disabled.  
-The Reports and Return Home buttons should never be disabled.
-If punch validates OK, display "John/Jane Doe has successfully clocked in at *current time*" (Make all punch times have appropriate message). This message will display for 5 seconds, then disappear and return to the Home Screen. 
+The Reports and Return Home buttons should never be disabled.  
+If punch validates OK, display "John/Jane Doe has successfully clocked in at *current time*" (Make all punch times have appropriate message). This message will display for 5 seconds, then disappear and return to the Home Screen.  
+The Return Home button can be used at any time and will exit the current page and return the user to the Home Screen. 
   
 
 ## Reports button
