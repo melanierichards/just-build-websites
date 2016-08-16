@@ -53,7 +53,7 @@ What if you don't know what kind of website to "just build"? The following is a 
 * Create a guide to your city, with various filters (type of activity, expense, food reqs, etc.)
 * Design a website that would be usable on a 100px wide device
 * Vigorously test in a browser you've never heard of before
-* Keep track of your bucket list with a fancy website
+* Keep track of your bucket list or a specific goal with a fancy website. Inspiration:  Doris Yee's [Bucket List](http://www.yeedor.com/bucket-list/), Jessica Lord's [Vermeer Goals](http://jlord.us/vermeer/)
 * Take a walk in a neighborhood you don't frequent; make something inspired by what you see
 * Build the least performant website you can muster
 * Teach people something new about a topic you know a lot about
