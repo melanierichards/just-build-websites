@@ -74,3 +74,4 @@ But what if you don't know what kind of website to "just build"? The following i
 * Make a time calculator ([Guidelines](docs/time-calculator.md))
 * Make a unit converter ([Guidelines](docs/unit-converter.md))
 * Recreate your favorite movie or concert poster as a responsive website
+* Make a time clock web app ([Guidelines](docs/time-clock.md))
