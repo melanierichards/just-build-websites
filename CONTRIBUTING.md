@@ -6,7 +6,7 @@ The [Code of Conduct](CODE_OF_CONDUCT.md) applies to all contributions (PRs, iss
 
 1. Fork the project.
 2. It's up to you whether you'd like to work on your fork's master or a feature branch. The latter would probably be more useful if you're submitting an idea that has more in-depth guidelines.
-3. One idea = one commit, please.
+3. One idea = one commit, please. Write commit messages in the present imperative tense, so that they read as changes to be applied to the repo rather than a diary of changes made ("Add the widget" would be correct, vs. "Added the widget").
 4. Submit a PR to the master branch!
 
 ## Formatting
