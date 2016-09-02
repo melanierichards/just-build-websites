@@ -76,3 +76,4 @@ But what if you don't know what kind of website to "just build"? The following i
 * Recreate your favorite movie or concert poster as a responsive website
 * Make a time clock web app ([Guidelines](docs/time-clock.md))
 * Make any variety of calculators ([Guidelines](docs/various-calculators.md))
+* Go on an adventure and document it an interesting way. Inspiration: Hum Creative's [Guide to the Enchantments](http://enchantments.guide/)
