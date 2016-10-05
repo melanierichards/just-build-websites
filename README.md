@@ -40,7 +40,7 @@ But what if you don't know what kind of website to "just build"? The following i
 * Style a site using 3 different approaches to CSS architecture and see which one felt best
 * Use the same basic process to vet new frameworks or content management systems
 * Reimagine a favorite painting, sculpture, installation, etc. as web art
-* Solve the same problem 10 different ways
+* Solve the same problem in 10 different ways
 * Take your oldest trick in the book and try it a new way
 * Make a fan site for a quirky feature of your home town
 * Start a for-your-eyes-only journal/diary
