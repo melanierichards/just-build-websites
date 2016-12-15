@@ -15,6 +15,8 @@ But what if you don't know what kind of website to "just build"? The following i
 * Look at everybody's code!!!
 * Build a sustainable, pro-bono site for a non-profit in your area
   * [Code for America](http://www.codeforamerica.org/) (you can also help [fix issues on existing projects](https://www.codeforamerica.org/geeks/civicissues))
+  * [Women on Call](https://www.womenoncall.org/)
+  * [Catch a Fire](https://www.catchafire.org/)
   * [Volunteer Match](https://www.volunteermatch.org/)
   * Find code-for-good groups on [Meetup](http://meetup.com)
 * Find a local issue that's important to you, and make a brochure site that supports your stance
@@ -34,7 +36,7 @@ But what if you don't know what kind of website to "just build"? The following i
 * Make a beautiful website using only text, no images
 * Tinker with an old site to make it more accessible to people with various abilities and technical setups
 * Style some free themes for a popular blogging service
-** Finally share your poetry / banjo covers / hidden talent
+* Finally share your poetry / banjo covers / hidden talent
 * Reinvent the wheel: make a calculator, a personal finances web app, a time tracking app...
 * Practice making [style guides](http://styleguides.io/examples.html) by building one for an existing site. You might find yourself reducing current styles or refactoring duplicative code...
 * Style a site using 3 different approaches to CSS architecture and see which one felt best
