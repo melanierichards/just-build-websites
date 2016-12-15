@@ -24,7 +24,7 @@ But what if you don't know what kind of website to "just build"? The following i
 * Explore generative art
 * Challenge yourself to make a site under a certain kb limit
 * Identify a need you have in your daily life and make a web app that addresses it
-* Imagine what your favorite fictional character's website would look like
+ * Imagine what your favorite fictional character's website would look like
 * Explore web features on [Can I Use](http://caniuse.com/) and build a site with web features you've never heard of and/or used before
 * Showcase a personal collection: yours or someone else's
 * Research your genealogy and build a  tree
@@ -34,7 +34,7 @@ But what if you don't know what kind of website to "just build"? The following i
 * Make a beautiful website using only text, no images
 * Tinker with an old site to make it more accessible to people with various abilities and technical setups
 * Style some free themes for a popular blogging service
-* Finally share your poetry / banjo covers / hidden talent
+** Finally share your poetry / banjo covers / hidden talent
 * Reinvent the wheel: make a calculator, a personal finances web app, a time tracking app...
 * Practice making [style guides](http://styleguides.io/examples.html) by building one for an existing site. You might find yourself reducing current styles or refactoring duplicative code...
 * Style a site using 3 different approaches to CSS architecture and see which one felt best
@@ -79,3 +79,4 @@ But what if you don't know what kind of website to "just build"? The following i
 * Go on an adventure and document it an interesting way. Inspiration: Hum Creative's [Guide to the Enchantments](http://enchantments.guide/)
 * Create a custom 404 page
 * Create a random number generator for picking lottery numbers ([Guidelines](docs/lottery-numbers.md))
+* Go to the [new repo page](https://github.com/new) on Github. Make something inspired by the randomly-generated repo name they give you
