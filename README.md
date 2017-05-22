@@ -12,6 +12,7 @@ But what if you don't know what kind of website to "just build"? The following i
 * Create a fan site (and maybe an old-school web forum) for something you love
 * Build a gallery of photos you've taken on vacation
 * Try to rebuild a page of a favorite site without looking at their code
+* Follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) to get notified about [`first-timers-only` issues](http://www.firsttimersonly.com/) on Github!
 * Look at everybody's code!!!
 * Build a sustainable, pro-bono site for a non-profit in your area
   * [Code for America](http://www.codeforamerica.org/) (you can also help [fix issues on existing projects](https://www.codeforamerica.org/geeks/civicissues))
