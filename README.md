@@ -1,8 +1,8 @@
 # Just! Build! Websites!
 
-The hosts of [Shop Talk show](http://shoptalkshow.com/) podcast (Chris Coyier and Dave Rupert) get asked a lot of questions about how to learn web development. Their mantra is "just build websites"; [there's even a soundbite for it](http://shoptalkshow.com/mantra/). Getting your hands dirty with some web projects and filling in the gaps in your knowledge along the way is a beautiful way of doing things.
+The hosts of [Shop Talk show](http://shoptalkshow.com/) podcast (Chris Coyier and Dave Rupert) get asked a lot of questions about how to learn web development. Their mantra is "just build websites"; [there's even a soundbite for it](http://shoptalkshow.com/mantra/). Getting your hands dirty with some web projects and filling in the gaps in with your knowledge along the way is a beautiful way of doing things.
 
-But what if you don't know what kind of website to "just build"? The following is a brainstormed list of different projects you can give yourself to practice your web design and development chops. Feel free to submit a PR (see [contribution guidelines](CONTRIBUTING.md)) to add ideas to the list, or share the side projects you've made.
+But what if you don't know what kind of website to "just build"? The following is a brainstorming  list of different projects you can give yourself to practice your web design and development skills. Feel free to submit a PR (see [contribution guidelines](CONTRIBUTING.md)) to add ideas to the list, or share the side projects you've made.
 
 [Projects inspired by the list](docs/inspired-projects.md)
 
