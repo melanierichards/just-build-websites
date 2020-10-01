@@ -1,4 +1,4 @@
-# Just! Build! Websites!
+# Just! Build! Great! Websites!
 
 The hosts of [Shop Talk show](http://shoptalkshow.com/) podcast (Chris Coyier and Dave Rupert) get asked a lot of questions about how to learn web development. Their mantra is "just build websites"; [there's even a soundbite for it](http://shoptalkshow.com/mantra/). Getting your hands dirty with some web projects and filling in the gaps in your knowledge along the way is a beautiful way of doing things.
 
