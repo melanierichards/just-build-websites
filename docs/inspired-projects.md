@@ -1,4 +1,4 @@
-# Projects inspired by the idea list
+# Projects inspired by the idea list this is good
 
 To add your project here, start a new row in the table below with the correct values and submit a PR (your name can be linked to your personal website or a social media profile, but the link is not required). The project must be inspired by an idea on the main list.
 
