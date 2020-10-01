@@ -31,6 +31,8 @@ But what if you don't know what kind of website to "just build"? The following i
 * Explore web features on [Can I Use](http://caniuse.com/) and build a site with web features you've never heard of and/or used before
 * Showcase a personal collection: yours or someone else's
 * Research your genealogy and build a  tree
+* Always use new technology for making a website or an app or any project.
+* Try topics like cryptography and APIs, these are hot topics.
 * Gather personal data and use a chart/visualization library to present it--or come up with your own unique visualizations
 * Retool an existing site to load 10% faster (or set another performance benchmark and go for it)
 * Create a custom "start page" for new tabs in your browser. Perhaps use APIs to fetch information that's tailored to your interests.
