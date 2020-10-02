@@ -85,3 +85,4 @@ But what if you don't know what kind of website to "just build"? The following i
 * Go to the [new repo page](https://github.com/new) on Github. Make something inspired by the randomly-generated repo name they give you
 * Recreate the title sequence of a favorite show or movie using CSS. (Example: [Stranger Things](https://github.com/wbobeirne/stranger-things))
 * A site with a historic or futuristic User Interface (or any other theme accordingly).
+* Recreate an ECommerce Website which uses the AR Technology to search for the required products.
