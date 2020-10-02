@@ -6,7 +6,7 @@ But what if you don't know what kind of website to "just build"? The following i
 
 [Projects inspired by the list](docs/inspired-projects.md)
 
-## Ideas for web design + dev projects
+##  Some ideas for web design + dev projects
 
 * Help a friend's new business / hobby / resume / wedding
 * Create a fan site (and maybe an old-school web forum) for something you love
